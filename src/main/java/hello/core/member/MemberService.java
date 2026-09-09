@@ -6,4 +6,5 @@ public interface MemberService {
 
     Member findMember(Long memberId);
 
+
 }
